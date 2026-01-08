@@ -15,7 +15,7 @@ function countCharacters(text) {
   return text.length;
 }
 
-console.log(toUpperCaseText("hello"));
+console.log("Upper:", toUpperCaseText("hello"));
 
 console.log(reverseText("Laptop"));
 
@@ -29,3 +29,4 @@ module.exports = {
   countCharacters
 };
 
+// temporary debug log
