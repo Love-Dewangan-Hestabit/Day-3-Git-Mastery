@@ -10,6 +10,7 @@ function reverseText(text) {
   return text.split("").reverse().join("");
 }
 
+
 function countCharacters(text) {
   return text.length;
 }
@@ -27,3 +28,4 @@ module.exports = {
   reverseText,
   countCharacters
 };
+
