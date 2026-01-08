@@ -22,14 +22,14 @@ During testing, I discovered that the counting characters function was returning
 I used `git bisect` to identify the faulty commit efficiently
 
 ### Bisect Results
-![Bug Identification](screenshots/Bug Identified.png)
+![Bug Identification](screenshots/Bug_Identfied.png)
 
 ---
 
 ## 3. Bug Fix and Revert Operation
 
 This graph represents how I reverted the Bug and fixed it.
-![Bug Fix](screenshots/Fixing Bug and Git Revert Graph.png)
+![Bug Fix](screenshots/Fixing_Bug_and_Git_Revert_Graph.png)
 
 ---
 
@@ -37,7 +37,7 @@ This graph represents how I reverted the Bug and fixed it.
 
 I created two clones of the repository to simulate a team environment and edited the same lime in same file to introduce a conflict that can occur while working in a team environment.
 The graph represents how I resolved Merge Conflict.
-![Merge Conflict Resolution](screenshots/Merge and Resolve conflict Graph.png)
+![Merge Conflict Resolution](screenshots/Merge_and_Resolve_conflict_Graph.png)
 
 ## 5. Observation and Learning
 
