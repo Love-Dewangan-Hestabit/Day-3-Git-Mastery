@@ -29,7 +29,7 @@ I used `git bisect` to identify the faulty commit efficiently
 ## 3. Bug Fix and Revert Operation
 
 This graph represents how I reverted the Bug and fixed it.
-![Bug Fix](screenshots/Fixing Bug and Git Revert.png)
+![Bug Fix](screenshots/Fixing Bug and Git Revert Graph.png)
 
 ---
 
@@ -37,7 +37,7 @@ This graph represents how I reverted the Bug and fixed it.
 
 I created two clones of the repository to simulate a team environment and edited the same lime in same file to introduce a conflict that can occur while working in a team environment.
 The graph represents how I resolved Merge Conflict.
-![Merge Conflict Resolution](screenshots/Merge and Resolve conflict.png)
+![Merge Conflict Resolution](screenshots/Merge and Resolve conflict Graph.png)
 
 ## 5. Observation and Learning
 
