@@ -11,7 +11,7 @@ function reverseText(text) {
 }
 
 function countCharacters(text) {
-  return text.length(); //BUG: length is not a function
+  return text.length;
 }
 
 console.log(toUpperCaseText("hello"));
