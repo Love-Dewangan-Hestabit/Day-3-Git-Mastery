@@ -1,0 +1,3 @@
+function toUpperCaseText(text) {
+    return text.toUpperCase();
+}
