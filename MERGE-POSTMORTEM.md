@@ -22,7 +22,7 @@ During testing, I discovered that the counting characters function was returning
 I used `git bisect` to identify the faulty commit efficiently
 
 ### Bisect Results
-![Bug Identification](screenshots/Bug-Identified.png)
+![Bug Identification](screenshots/BugIdentified.png)
 
 ---
 
