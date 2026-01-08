@@ -16,4 +16,5 @@ function countCharacters(text) {
 
 console.log(toUpperCaseText("hello"));
 
+console.log(reverseText("Laptop"));
 
