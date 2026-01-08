@@ -14,7 +14,7 @@ function countCharacters(text) {
   return text.length(); //BUG: length is not a function
 }
 
-console.log(toUpperCaseText("hello"));
+console.log("Uppercase Result:", toUpperCaseText("hello"));
 
 console.log(reverseText("Laptop"));
 
