@@ -5,3 +5,8 @@ function toUpperCaseText(text) {
 function toLowerCaseText(text) {
   return text.toLowerCase();
 }
+
+function reverseText(text) {
+  return text.split("").reverse().join("");
+}
+
