@@ -19,3 +19,11 @@ console.log(toUpperCaseText("hello"));
 console.log(reverseText("Laptop"));
 
 console.log(toLowerCaseText("ORGANIZATION"));
+
+
+module.exports = {
+  toUpperCaseText,
+  toLowerCaseText,
+  reverseText,
+  countCharacters
+};
